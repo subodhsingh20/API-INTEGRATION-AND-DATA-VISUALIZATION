@@ -159,3 +159,8 @@ Conclusion :
 The API-INTEGRATION-AND-DATA-VISUALIZATION project is a solid example of combining modern development practices with data-centric thinking. By leveraging Python and AI assistance, I was able to create a flexible, insightful, and scalable tool. Its utility spans across industries and use-cases, making it both a strong portfolio project and a potentially marketable solution.
 
 This project not only sharpened my programming and analytical skills but also deepened my understanding of how data drives the digital world.
+
+
+
+*OUTPUT* :  https://github.com/user-attachments/assets/37f958a9-5657-4566-985c-f1f2e0657f26
+
