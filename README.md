@@ -12,6 +12,8 @@
 
 *MENTOR* :  NEELA SANTHOSH KUMAR 
 
+*DESCRIPTION* : 
+
 Introduction:
 The project “API-INTEGRATION-AND-DATA-VISUALIZATION” is a comprehensive data-centric application designed to seamlessly fetch data from APIs, process the data using Python, and generate meaningful visual insights. In today's data-driven world, the ability to dynamically interact with APIs and transform complex datasets into intuitive visuals is invaluable. This project was built not just to demonstrate technical implementation but also to solve real-world problems by converting raw data into actionable intelligence.
 
